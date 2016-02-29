@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiusnaso00ehwagoog_0024.png"; bbox 0 0 2467 4042; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1008 1278 1426 1348">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1008 1278 1426 1348">
+     <span class='ocr_line' id='line_1_1' title="bbox 1008 1278 1426 1348; baseline -0.026 1"><span class='ocrx_word' id='word_1_1' title='bbox 1008 1278 1426 1348; x_wconf 54' lang='lat' dir='ltr'>mmmmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 953 1363 1487 1524">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 953 1363 1487 1524">
+     <span class='ocr_line' id='line_1_2' title="bbox 953 1363 1487 1443; baseline -0.021 0"><span class='ocrx_word' id='word_1_2' title='bbox 953 1363 1487 1443; x_wconf 64' lang='grc' dir='ltr'>ῌΝΝΕΩΞΙΤΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1014 1458 1420 1524; baseline -0.022 1"><span class='ocrx_word' id='word_1_3' title='bbox 1014 1458 1420 1524; x_wconf 61' lang='grc' dir='ltr'>ὶ-ΙΒΩΑΗΥ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
